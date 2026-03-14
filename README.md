@@ -12,6 +12,5 @@ Projects Included
 - Analyzed 1200+ orders dataset
 - Created interactive dashboard tracking marketing sources
 
-3. Sales Performance Dashboard
-- Visualized regional sales performance
-- Identified product demand patterns
+3. Employee Performance Dashboard
+- Visualized employee performance
